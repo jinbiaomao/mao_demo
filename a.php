@@ -1,3 +1,3 @@
 <?php
-echo 'helloworld';
-echo 'every thing is done';
+echo 'this is test';
+echo 'because i am best';
